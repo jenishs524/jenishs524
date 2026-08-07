@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jenishs524&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jenishs524&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jenishs524@gmail.com&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
